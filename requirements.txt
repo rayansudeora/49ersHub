@@ -161,6 +161,7 @@ pyobjc-framework-AutomaticAssessmentConfiguration==6.2.1
 pyobjc-framework-Automator==6.2.1
 pyobjc-framework-BusinessChat==6.2.1
 pyobjc-framework-CalendarStore==6.2.1
+pyobjc-framework-CFNetwork==6.0
 pyobjc-framework-CloudKit==6.2.1
 pyobjc-framework-Collaboration==6.2.1
 pyobjc-framework-ColorSync==6.2.1
