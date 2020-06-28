@@ -171,7 +171,6 @@ pyobjc-framework-DVDPlayback==6.2.1
 pyobjc-framework-EventKit==6.2.1
 pyobjc-framework-ExceptionHandling==6.2.1
 pyobjc-framework-ExecutionPolicy==6.2.1
-pyobjc-framework-ExternalAccessory==6.2.1
 pyobjc-framework-FileProvider==6.2.1
 pyobjc-framework-FileProviderUI==6.2.1
 pyobjc-framework-FinderSync==6.2.1
