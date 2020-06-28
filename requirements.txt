@@ -153,7 +153,6 @@ pylint==2.4.4
 PyMySQL==0.9.3
 pyobjc==6.2.1
 pyobjc-framework-Accounts==6.2.1
-pyobjc-framework-AddressBook==6.2.1
 pyobjc-framework-AdSupport==6.2.1
 pyobjc-framework-AppleScriptKit==6.2.1
 pyobjc-framework-AppleScriptObjC==6.2.1
