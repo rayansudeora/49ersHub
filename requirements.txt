@@ -192,7 +192,6 @@ pyobjc-framework-OpenDirectory==6.2.1
 pyobjc-framework-OSAKit==6.2.1
 pyobjc-framework-PencilKit==6.2.1
 pyobjc-framework-PreferencePanes==6.2.1
-pyobjc-framework-Quartz==6.2.1
 pyobjc-framework-QuickLookThumbnailing==6.2.1
 pyobjc-framework-SafariServices==6.2.1
 pyobjc-framework-SceneKit==6.2.1
