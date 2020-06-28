@@ -186,7 +186,6 @@ pyobjc-framework-LocalAuthentication==6.2.1
 pyobjc-framework-MediaAccessibility==6.2.1
 pyobjc-framework-MediaLibrary==6.2.1
 pyobjc-framework-MediaPlayer==6.2.1
-pyobjc-framework-MediaToolbox==6.2.1
 pyobjc-framework-Metal==6.2.1
 pyobjc-framework-MetalKit==6.2.1
 pyobjc-framework-ModelIO==6.2.1
