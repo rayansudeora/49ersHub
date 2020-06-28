@@ -159,7 +159,6 @@ pyobjc-framework-AppleScriptObjC==6.2.1
 pyobjc-framework-ApplicationServices==6.2.1
 pyobjc-framework-AutomaticAssessmentConfiguration==6.2.1
 pyobjc-framework-Automator==6.2.1
-pyobjc-framework-AVFoundation==6.2.1
 pyobjc-framework-AVKit==6.2.1
 pyobjc-framework-BusinessChat==6.2.1
 pyobjc-framework-CalendarStore==6.2.1
