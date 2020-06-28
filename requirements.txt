@@ -166,8 +166,6 @@ pyobjc-framework-Collaboration==6.2.1
 pyobjc-framework-ColorSync==6.2.1
 pyobjc-framework-DeviceCheck==6.2.1
 pyobjc-framework-DictionaryServices==6.2.1
-pyobjc-framework-DiscRecording==6.2.1
-pyobjc-framework-DiscRecordingUI==6.2.1
 pyobjc-framework-DiskArbitration==6.2.1
 pyobjc-framework-DVDPlayback==6.2.1
 pyobjc-framework-EventKit==6.2.1
