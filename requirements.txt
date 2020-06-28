@@ -181,7 +181,6 @@ pyobjc-framework-IOSurface==6.2.1
 pyobjc-framework-iTunesLibrary==6.2.1
 pyobjc-framework-LatentSemanticMapping==6.2.1
 pyobjc-framework-LaunchServices==6.2.1
-pyobjc-framework-libdispatch==6.2.1
 pyobjc-framework-LinkPresentation==6.2.1
 pyobjc-framework-LocalAuthentication==6.2.1
 pyobjc-framework-MapKit==6.2.1
