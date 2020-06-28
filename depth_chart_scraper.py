@@ -1,6 +1,6 @@
 import requests
 import json
-import website
+import app
 import threading
 import time
 
