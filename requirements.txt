@@ -198,7 +198,6 @@ pyobjc-framework-ServiceManagement==6.2.1
 pyobjc-framework-Social==6.2.1
 pyobjc-framework-SoundAnalysis==6.2.1
 pyobjc-framework-VideoSubscriberAccount==6.2.1
-pyobjc-framework-Vision==6.2.1
 pyobjc-framework-WebKit==6.2.1
 pyodbc===4.0.0-unsupported
 pyOpenSSL==19.1.0
