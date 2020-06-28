@@ -162,7 +162,6 @@ pyobjc-framework-Automator==6.2.1
 pyobjc-framework-BusinessChat==6.2.1
 pyobjc-framework-CalendarStore==6.2.1
 pyobjc-framework-CloudKit==6.2.1
-pyobjc-framework-Cocoa==6.2.1
 pyobjc-framework-Collaboration==6.2.1
 pyobjc-framework-ColorSync==6.2.1
 pyobjc-framework-Contacts==6.2.1
