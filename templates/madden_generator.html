@@ -1,0 +1,21 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+
+
+<div class="container">
+		<div class="jumbotron">
+		  <h1 class="display-4">Generated Games For {{ text }}</h1>
+		  <hr class="my-4">
+		  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:1390px; bottom:0px; width:100px; height:800px; border:none;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:-50px; bottom:0px; width:100px; height:800px; border:none;">
+		  <p><b>Starter:</b> {{ data }}<br/>
+
+			</p>
+		  <a class="btn btn-primary btn-md" href="/depthchart" role="button">Back</a>
+		</div>
+</div>
+
+
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+
+
+<div class="container">
+		<div class="jumbotron">
+		  <h1 class="display-4">{{ text }} Depth Chart</h1>
+		  <hr class="my-4">
+		  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:1390px; bottom:0px; width:100px; height:800px; border:none;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:-50px; bottom:0px; width:100px; height:800px; border:none;">
+		  <p><b>Starter:</b> {{ data[0]['name'] }}<br/>
+		  	<b>2nd string:</b> {{ data[1]['name'] }}<br/>
+		  	<b>3rd string:</b> {{ data[2]['name'] }}<br/>
+		  	<b>4th string:</b> {{ data[3]['name'] }}<br/>
+
+			</p>
+		  <a class="btn btn-primary btn-md" href="/depthchart" role="button">Back</a>
+		</div>
+</div>
+
+
+{% endblock %}

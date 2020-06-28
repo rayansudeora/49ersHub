@@ -1,0 +1,64 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<div class="container">
+	<div class="jumbotron">
+		<h1 class="display-4">49ers Depth Chart</h1>
+		<p class="lead">Choose a position below.</p>
+		<hr class="my-4">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:1390px; bottom:0px; width:100px; height:800px; border:none;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:-50px; bottom:0px; width:100px; height:800px; border:none;">
+		
+		<div class="form-group">
+			<form method="POST">
+				<label for="selectpositions" ><h2>Positions</h2></label>
+				<select input name = "selectpositions" class="custom-select custom-select-lg mb-3" id="selectpositions">
+					<option>QB</option>
+					<option>RB</option>
+					<option>WR</option>
+					<option>TE</option>
+					<option>LT</option>
+					<option>LG</option>
+					<option>C</option>
+					<option>RG</option>
+					<option>RT</option>
+					<option>LDE</option>
+					<option>LDT</option>
+					<option>RDT</option>
+					<option>RDE</option>
+					<option>WLB</option>
+					<option>MLB</option>
+					<option>SLB</option>
+					<option>LCB</option>
+					<option>SS</option>
+					<option>FS</option>
+					<option>RCB</option>
+					<option>PK</option>
+					<option>P</option>
+					<option>H</option>
+					<option>PR</option>
+					<option>KR</option>
+					<option>LS</option>
+				</select>
+			</div>
+			<button input type="submit" class="btn btn-primary">Check</button>
+		</form>
+
+
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+{% endblock %}

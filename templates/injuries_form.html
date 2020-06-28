@@ -1,0 +1,58 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<div class="container">
+	<div class="jumbotron">
+		<h1 class="display-4">49ers Injuries</h1>
+		<p class="lead">Choose a position below.</p>
+		<hr class="my-4">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:1390px; bottom:0px; width:100px; height:800px; border:none;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:-50px; bottom:0px; width:100px; height:800px; border:none;">
+		
+		<div class="form-group">
+			<form method="POST">
+				<label for="injurypositions" ><h2>Positions</h2></label>
+				<select input name = "injurypositions" class="custom-select custom-select-lg mb-3" id="injurypositions">
+					<option>ALL</option>
+					<option>QB</option>
+					<option>RB</option>
+					<option>WR</option>
+					<option>TE</option>
+					<option>OT</option>
+					<option>G</option>
+					<option>C</option>
+					<option>DE</option>
+					<option>DT</option>
+					<option>LB</option>
+					<option>CB</option>
+					<option>SS</option>
+					<option>FS</option>
+					<option>PK</option>
+					<option>P</option>
+					<option>H</option>
+					<option>PR</option>
+					<option>KR</option>
+					<option>LS</option>
+				</select>
+			</div>
+			<button input type="submit" class="btn btn-primary">Check</button>
+		</form>
+
+
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+{% endblock %}

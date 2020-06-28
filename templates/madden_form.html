@@ -1,0 +1,44 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<div class="container">
+	<div class="jumbotron">
+		<h1 class="display-4">Madden Tournament Generator</h1>
+		<p class="lead">The options below apply to your tournament. For example, when it says "2 Games," that means each team will play 2 other teams.</p>
+		<hr class="my-4">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:1390px; bottom:0px; width:100px; height:800px; border:none;">
+		<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Vertical_red_bar.svg?fit=scale" width="500" height="600" alt="" style="position:fixed; right:-50px; bottom:0px; width:100px; height:800px; border:none;">
+		
+		<div class="form-group">
+			<form method="POST">
+				<label for="selectgames" ><h2>Options</h2></label>
+				<select input name = "selectgames" class="custom-select custom-select-lg mb-3" id="selectgames">
+					<option>1 Game (conference) </option>
+					<option>1 Game (out of conference) </option>
+					<option>2 Games (one division, one conference)</option>
+					<option>2 Games (one division, one out-of-conference)</option>
+					<option>3 Games</option>
+					<option>4 Games</option>
+				</select>
+			</div>
+			<button input type="submit" class="btn btn-primary">Generate</button>
+		</form>
+
+
+</div>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+{% endblock %}
