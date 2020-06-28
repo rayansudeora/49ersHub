@@ -164,17 +164,6 @@ pyobjc-framework-CalendarStore==6.2.1
 pyobjc-framework-CloudKit==6.2.1
 pyobjc-framework-Collaboration==6.2.1
 pyobjc-framework-ColorSync==6.2.1
-pyobjc-framework-CoreData==6.2.1
-pyobjc-framework-CoreHaptics==6.2.1
-pyobjc-framework-CoreLocation==6.2.1
-pyobjc-framework-CoreMedia==6.2.1
-pyobjc-framework-CoreMediaIO==6.2.1
-pyobjc-framework-CoreML==6.2.1
-pyobjc-framework-CoreMotion==6.2.1
-pyobjc-framework-CoreServices==6.2.1
-pyobjc-framework-CoreSpotlight==6.2.1
-pyobjc-framework-CoreText==6.2.1
-pyobjc-framework-CoreWLAN==6.2.1
 pyobjc-framework-CryptoTokenKit==6.2.1
 pyobjc-framework-DeviceCheck==6.2.1
 pyobjc-framework-DictionaryServices==6.2.1
