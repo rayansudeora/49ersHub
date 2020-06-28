@@ -194,9 +194,6 @@ pyobjc-framework-PencilKit==6.2.1
 pyobjc-framework-PreferencePanes==6.2.1
 pyobjc-framework-QuickLookThumbnailing==6.2.1
 pyobjc-framework-SearchKit==6.2.1
-pyobjc-framework-Security==6.2.1
-pyobjc-framework-SecurityFoundation==6.2.1
-pyobjc-framework-SecurityInterface==6.2.1
 pyobjc-framework-ServiceManagement==6.2.1
 pyobjc-framework-Social==6.2.1
 pyobjc-framework-SoundAnalysis==6.2.1
