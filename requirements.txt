@@ -183,7 +183,6 @@ pyobjc-framework-LatentSemanticMapping==6.2.1
 pyobjc-framework-LaunchServices==6.2.1
 pyobjc-framework-LinkPresentation==6.2.1
 pyobjc-framework-LocalAuthentication==6.2.1
-pyobjc-framework-MapKit==6.2.1
 pyobjc-framework-MediaAccessibility==6.2.1
 pyobjc-framework-MediaLibrary==6.2.1
 pyobjc-framework-MediaPlayer==6.2.1
