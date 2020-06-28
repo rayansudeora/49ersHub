@@ -197,7 +197,6 @@ pyobjc-framework-SearchKit==6.2.1
 pyobjc-framework-ServiceManagement==6.2.1
 pyobjc-framework-Social==6.2.1
 pyobjc-framework-SoundAnalysis==6.2.1
-pyobjc-framework-SyncServices==6.2.1
 pyobjc-framework-SystemConfiguration==6.2.1
 pyobjc-framework-SystemExtensions==6.2.1
 pyobjc-framework-UserNotifications==6.2.1
