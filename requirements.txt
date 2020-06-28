@@ -193,7 +193,6 @@ pyobjc-framework-OSAKit==6.2.1
 pyobjc-framework-PencilKit==6.2.1
 pyobjc-framework-PreferencePanes==6.2.1
 pyobjc-framework-QuickLookThumbnailing==6.2.1
-pyobjc-framework-ScreenSaver==6.2.1
 pyobjc-framework-ScriptingBridge==6.2.1
 pyobjc-framework-SearchKit==6.2.1
 pyobjc-framework-Security==6.2.1
