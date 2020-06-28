@@ -190,7 +190,6 @@ pyobjc-framework-NaturalLanguage==6.2.1
 pyobjc-framework-NetFS==6.2.1
 pyobjc-framework-OpenDirectory==6.2.1
 pyobjc-framework-OSAKit==6.2.1
-pyobjc-framework-OSLog==6.2.1
 pyobjc-framework-PencilKit==6.2.1
 pyobjc-framework-Photos==6.2.1
 pyobjc-framework-PhotosUI==6.2.1
