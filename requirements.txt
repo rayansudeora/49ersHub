@@ -164,7 +164,6 @@ pyobjc-framework-CalendarStore==6.2.1
 pyobjc-framework-CloudKit==6.2.1
 pyobjc-framework-Collaboration==6.2.1
 pyobjc-framework-ColorSync==6.2.1
-pyobjc-framework-CryptoTokenKit==6.2.1
 pyobjc-framework-DeviceCheck==6.2.1
 pyobjc-framework-DictionaryServices==6.2.1
 pyobjc-framework-DiscRecording==6.2.1
