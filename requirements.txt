@@ -188,8 +188,6 @@ pyobjc-framework-MediaLibrary==6.2.1
 pyobjc-framework-MediaPlayer==6.2.1
 pyobjc-framework-NaturalLanguage==6.2.1
 pyobjc-framework-NetFS==6.2.1
-pyobjc-framework-Network==6.2.1
-pyobjc-framework-NetworkExtension==6.2.1
 pyobjc-framework-NotificationCenter==6.2.1
 pyobjc-framework-OpenDirectory==6.2.1
 pyobjc-framework-OSAKit==6.2.1
