@@ -174,7 +174,6 @@ pyobjc-framework-ExecutionPolicy==6.2.1
 pyobjc-framework-FileProvider==6.2.1
 pyobjc-framework-FileProviderUI==6.2.1
 pyobjc-framework-FinderSync==6.2.1
-pyobjc-framework-FSEvents==6.2.1
 pyobjc-framework-GameCenter==6.2.1
 pyobjc-framework-GameController==6.2.1
 pyobjc-framework-GameKit==6.2.1
