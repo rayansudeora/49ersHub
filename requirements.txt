@@ -175,7 +175,6 @@ pyobjc-framework-FileProvider==6.2.1
 pyobjc-framework-FileProviderUI==6.2.1
 pyobjc-framework-FinderSync==6.2.1
 pyobjc-framework-GameController==6.2.1
-pyobjc-framework-IMServicePlugIn==6.2.1
 pyobjc-framework-InputMethodKit==6.2.1
 pyobjc-framework-InstallerPlugins==6.2.1
 pyobjc-framework-InstantMessage==6.2.1
